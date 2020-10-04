@@ -35,3 +35,7 @@ Lors d'un contact (bouton poussoir, interrupteur,...) relié au GPIO :
 * affichage sur le LCD d'un message - scrolling horizontal
 * affichage sur le LCD d'images aléatoires
 * affichage sur le LCD d'animations .gif aléaoires
+
+## Détails
+* alimentation/batterie permanente
+* orientation boitier 90°
