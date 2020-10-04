@@ -8,7 +8,7 @@ Un raspberry, un appareil photo, une imprimante = un photomaton !
 * appareil canon 50D (Vérifiez la <a href="http://www.gphoto.org/proj/libgphoto2/support.php" target="_blank">compatibilité de votre appareil avec gphoto2</a>)
 * imprimante CANON CP900
 * 3 LED de couleurs
-* écran LCD 1"3 pimorini
+* écran LCD 1"3 pimorini 240x240
 
 
 ---
